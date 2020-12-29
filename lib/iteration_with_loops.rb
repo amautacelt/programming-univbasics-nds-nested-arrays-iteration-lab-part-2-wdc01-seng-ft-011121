@@ -24,7 +24,7 @@ end
 
 
 def find_min_in_nested_arrays(src)
-  lowests_arrays = 
+  lowest_arrays = 
 end
 
   # src will be an array of arrays of integers
